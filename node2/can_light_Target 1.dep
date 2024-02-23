@@ -1,0 +1,7 @@
+Dependencies for Project 'can_light', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main_can_light.c)(0x65268B67)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "main_can_light.o" --omf_browse "main_can_light.crf" --depend "main_can_light.d")
+I (header.h)(0x651FFAC3)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x4F585AA4)
+I (delay.h)(0x64E2E608)
+I (can_header.h)(0x652378E1)

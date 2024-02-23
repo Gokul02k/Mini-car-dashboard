@@ -1,0 +1,7 @@
+Dependencies for Project 'can_buss', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F58A648)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil4\ARM\RV31\Inc -I C:\Keil4\ARM\CMSIS\Include -I C:\Keil4\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main_can_buzz.c)(0x6523BFB4)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\Inc -I C:\Keil4\ARM\CMSIS\Include -I C:\Keil4\ARM\Inc\Philips -o "main_can_buzz.o" --omf_browse "main_can_buzz.crf" --depend "main_can_buzz.d")
+I (header.h)(0x65206562)
+I (C:\Keil4\ARM\Inc\Philips\LPC21xx.H)(0x4E78215A)
+I (delay.h)(0x64E33360)
+I (can_header.h)(0x6523C772)

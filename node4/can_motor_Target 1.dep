@@ -1,0 +1,4 @@
+Dependencies for Project 'can_motor', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F58A648)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main_can_motor.c)(0x6523CEC0)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "main_can_motor.o" --omf_browse "main_can_motor.crf" --depend "main_can_motor.d")
+I (header.h)(0x65213FD8)

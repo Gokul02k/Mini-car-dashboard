@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "main_can_light.o" --strict --scatter "can_light.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\can_light.map" -o can_light.axf

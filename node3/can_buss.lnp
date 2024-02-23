@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "main_can_buzz.o" --strict --scatter "can_buss.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\can_buss.map" -o "can_buss.axf"
